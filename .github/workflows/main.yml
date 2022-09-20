@@ -1,6 +1,6 @@
 name: TryPipeline
 on:
-  [push, workflowdispatch]
+  [push, workflow_dispatch]
   
 jobs:
   bestHero:
